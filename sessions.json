@@ -1,0 +1,10 @@
+{
+    "revisemate-web-app": {
+        "model": "claude",
+        "role": "full_stack_developer",
+        "description": "RevisionMate web application - full stack development",
+        "contexts": [
+            "../contexts/revisemate-web-app.md"
+        ]
+    }
+}
